@@ -4,6 +4,3 @@ A simple CLI created using goland and urfave to let the user add their most favo
 
 ## Asthetic picture of how the CLI Looks
 ![CLI With GoLang](./img/go-cli.png)
-
-## Authors 
-* Aemie Jariwala
